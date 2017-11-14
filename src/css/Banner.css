@@ -1,0 +1,30 @@
+.Banner{
+
+}
+
+.bannerContainer {
+    width: 100%;
+    height: 810px;
+    background-image: url("../img/banner2.png");
+}
+
+.container-banner{
+    margin-top: 300px;
+    margin-bottom: 70px;
+}
+
+#nameText{
+    font-family: Verdana, Geneva, sans-serif;
+    padding-top: 300px;
+    color: white;
+    font-weight: bold;
+    vertical-align: text-top;
+
+}
+
+.typewrite{
+    padding-left: 230px;
+    color: white;
+    font-size: 5em;
+    font-weight: 900;
+}

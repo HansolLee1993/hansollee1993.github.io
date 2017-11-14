@@ -1,0 +1,52 @@
+
+.contact-us {
+    padding: 50px;
+    background-color: #ffffff;
+    box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
+    border: solid 7px #f78733;
+}
+
+
+
+
+.contact-us-detail a {
+    color: #ffffff;
+}
+
+.contact-us-detail a:hover {
+    color: #ffffff;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-control {
+    border: 2px solid transparent;
+    height: 50px;
+    border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -ms-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -o-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -webkit-transition:all 150ms ease-in-out 0s;
+    -moz-transition:all 150ms ease-in-out 0s;
+    -ms-transition:all 150ms ease-in-out 0s;
+    -o-transition:all 150ms ease-in-out 0s;
+    transition:all 150ms ease-in-out 0s;
+}
+.form-control:focus {
+    border-color: #171717;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    border-color: #4abdac;
+    border-width: 2px;
+}
+

@@ -1,0 +1,16 @@
+.call-to-action {
+    background: url(../img/call-to-action.png);
+    background-attachment: fixed;
+    background-repeat: repeat;
+
+}
+CallAction{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.call-to-action h2 {
+    font-size: 30px;
+    color: #ffffff;
+}

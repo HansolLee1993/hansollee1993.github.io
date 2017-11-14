@@ -1,0 +1,104 @@
+.about{
+    padding-top: 100px;
+}
+.table {
+    margin-bottom: 0px;
+}
+
+.table a {
+    color: #ffffff;
+}
+
+.table > tbody > tr > td {
+    padding: 15px;
+    border: 3px solid #e4e4e4;
+}
+
+.table tr > td {
+    padding: 15px 15px;
+}
+
+tr:nth-child(1) > td {
+    border-top:0px;
+}
+
+tr > td:nth-child(1){
+    background-color: #ffffff;
+    font-weight: 500;
+    font-size: 13px;
+    color: black;
+    width: 140px;
+}
+
+tr > td:nth-child(2) {
+    font-weight: 500;
+    color: #ffffff;
+    background: #4abdac;
+}
+
+.imgCss {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-left: 130px;
+    width: 240px;
+    height: 310px;
+}
+
+.aboutMePanel{
+    margin-top: 30px;
+}
+
+.progress {
+    height: 28px;
+
+}
+.progress .skill {
+    font: normal 12px "Open Sans Web";
+    line-height: 28px;
+    padding: 0;
+    margin: 0 0 0 20px;
+    text-transform: uppercase;
+}
+.progress .skill .val {
+    float: right;
+    font-style: normal;
+    margin: 0 8px 0 0;
+}
+
+.progress-bar {
+    text-align: left;
+    transition-duration: 3s;
+}
+
+.ProgressContainer{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+#skillsBox{
+    margin-top:100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    background: url(../img/call-to-action.png);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.skillHeader{
+    font-family: 'Playfair Display', serif;
+    color:white;
+    padding-bottom: 30px;
+}
+
+.skillsTitle{
+    color: white;
+    padding-bottom: 10px;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+}
+.skills{
+    color: white;
+}

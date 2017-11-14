@@ -1,0 +1,130 @@
+.navbar-before {
+    background: transparent;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+}
+
+.navbar-after .navbar-brand {
+    color: white;
+}
+.navbar-after .navbar-brand:hover,
+.navbar-after .navbar-brand:focus,
+.navbar-after .navbar-brand:active,
+.navbar-after .navbar-brand.active {
+    color: white;
+}
+.navbar-after .navbar-nav {
+    letter-spacing: 1px;
+}
+.navbar-after .navbar-nav li a {
+    color: white;
+}
+.navbar-after .navbar-nav li a:hover {
+    background-color: #f78733;
+    color: white;
+}
+.navbar-after .navbar-nav li a:focus,
+.navbar-after .navbar-nav li a:active {
+    color: white;
+}
+.navbar-after .navbar-nav li.active a {
+    color: white;
+    background: #f78733;
+}
+.navbar-after .navbar-nav li.active a:hover,
+.navbar-after .navbar-nav li.active a:focus,
+.navbar-after .navbar-nav li.active a:active {
+    color: white;
+    background: #4abdac;
+}
+.navbar-after .navbar-toggle {
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    border-color: white;
+}
+.navbar-after .navbar-toggle:hover,
+.navbar-after .navbar-toggle:focus {
+    background-color: #f78733;
+    color: white;
+    border-color: #f78733;
+}
+
+
+.navbar-after {
+    background: #4abdac;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+}
+
+
+.navbar-before .navbar-brand {
+    color: white;
+}
+.navbar-before .navbar-brand:hover,
+.navbar-before .navbar-brand:focus,
+.navbar-before .navbar-brand:active,
+.navbar-before .navbar-brand.active {
+    color: white;
+}
+.navbar-before .navbar-nav {
+    letter-spacing: 1px;
+}
+.navbar-before .navbar-nav li a {
+    color: white;
+}
+.navbar-before .navbar-nav li a:hover {
+    background-color: #f78733;
+    color: white;
+}
+.navbar-before .navbar-nav li a:focus,
+.navbar-before .navbar-nav li a:active {
+    color: white;
+}
+.navbar-before .navbar-nav li.active a {
+    color: white;
+    background: #f78733;
+}
+.navbar-before .navbar-nav li.active a:hover,
+.navbar-before .navbar-nav li.active a:focus,
+.navbar-before .navbar-nav li.active a:active {
+    color: white;
+    background: #4abdac;
+}
+.navbar-before .navbar-toggle {
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    border-color: white;
+}
+.navbar-before .navbar-toggle:hover,
+.navbar-before .navbar-toggle:focus {
+    background-color: #f78733;
+    color: white;
+    border-color: #f78733;
+}
+@media (min-width: 768px) {
+    .navbar-before {
+        padding: 25px 0;
+        -webkit-transition: padding 0.3s;
+        -moz-transition: padding 0.3s;
+        transition: padding 0.3s;
+    }
+    .navbar-before .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+    .navbar-before.affix {
+        padding: 10px 0;
+    }
+    .navbar-before.affix .navbar-brand {
+        font-size: 1.5em;
+    }
+}
+
