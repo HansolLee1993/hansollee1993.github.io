@@ -56,7 +56,7 @@ class Navi extends Component {
                                     <a href="#contact">Contact</a>
                                 </li>
                                 <li className="page-scroll">
-                                    <a href="">Resume</a>
+                                    <a href="resume.html">Resume</a>
                                 </li>
                             </ul>
                         </div>

@@ -37,7 +37,7 @@ class Portfolio extends Component {
                                         </a>
                                         <div className="portfolio-caption">
                                             <h4>Task management tool </h4>
-                                            <h6>Thejibe <br></br>May 2017 - Sep 2017</h6>
+                                            <h6 className="companyName">Thejibe <br></br>May 2017 - Sep 2017</h6>
                                             <p className="text-muted">
                                                 Continuation of a task management tool, pulling employee data through the Teamwork API
                                                 Application uses a combo of Laravel for the back-end and React for the front-end.
@@ -58,7 +58,7 @@ class Portfolio extends Component {
                                         </a>
                                         <div className="portfolio-caption">
                                             <h4>College Scheduling Application</h4>
-                                            <h6>Okanagan Valley College of Massage Therapy
+                                            <h6 className="companyName">Okanagan Valley College of Massage Therapy
                                             <br></br>Jan 2017 – Apr 2017</h6>
                                             <p className="text-muted">
                                                 A scheduling application built for Okanagan Valley College of Massage Therapy that provides a drag-and-drop and schedule propagation
@@ -71,7 +71,6 @@ class Portfolio extends Component {
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
-
                                         <a className="portfolio-link" data-toggle="modal" href="http://www.vidc.ca/">
                                             <div className="portfolio-hover">
                                                 <div className="portfolio-hover-content">
@@ -83,7 +82,7 @@ class Portfolio extends Component {
                                         </a>
                                         <div className="portfolio-caption">
                                             <h4>Redesign Website</h4>
-                                            <h6>Vancouver Infectious Diseases Centre
+                                            <h6 className="companyName">Vancouver Infectious Diseases Centre
                                                 <br></br>sep 2017 – Present</h6>
                                             <p className="text-muted">Redegined the website for non profit-organization.
                                                 Website should be follow trandt website style and represent organzation.
@@ -145,13 +144,16 @@ class Portfolio extends Component {
 
 
                     <div className = "col-md-12 text-center">
-                        <a href="https://github.com/HansolLee1993"><h5>https://github.com/HansolLee1993</h5></a>
-                        <div className="github_link center-block" alt="">
-
+                        <a href="https://github.com/HansolLee1993">
+                            <h5>https://github.com/HansolLee1993</h5>
+                        </a>
+                        <div className="col-sm-offset-2 col-sm-8" id ="githublink">
+                            <img className="img-fluid" src={require('./img/github.png')} style={{'width':'100%','height':'200px'}} alt="github image"></img>
                         </div>
 
-                    <div className="text-center margin-top-50">
 
+
+                    <div className="text-center margin-top-50">
                         <a className="button button-style button-style-dark button-style-color-2 smoth-scroll" href="#contact">Hire Me!</a>
                     </div>
                     </div>
