@@ -1,16 +1,22 @@
 {
-  "main.css": "static/css/main.dcfb33ff.css",
-  "main.css.map": "static/css/main.dcfb33ff.css.map",
-  "main.js": "static/js/main.8367b2f9.js",
-  "main.js.map": "static/js/main.8367b2f9.js.map",
+  "main.css": "static/css/main.880f4b4f.css",
+  "main.css.map": "static/css/main.880f4b4f.css.map",
+  "main.js": "static/js/main.61d4291f.js",
+  "main.js.map": "static/js/main.61d4291f.js.map",
   "static/media/HansolPhoto.png": "static/media/HansolPhoto.53cbf580.png",
   "static/media/banner2.png": "static/media/banner2.5baedd07.png",
+  "static/media/bootstrap.png": "static/media/bootstrap.ff9dab81.png",
   "static/media/call-to-action.png": "static/media/call-to-action.ba71142a.png",
   "static/media/condo.png": "static/media/condo.efaee6ab.png",
   "static/media/github.png": "static/media/github.24d554a8.png",
+  "static/media/laravel.png": "static/media/laravel.6ca996a5.png",
+  "static/media/multi.png": "static/media/multi.d9efcb3a.png",
   "static/media/numberPop.png": "static/media/numberPop.424d7fe5.png",
   "static/media/ovcmt.png": "static/media/ovcmt.c0fff32e.png",
+  "static/media/php.png": "static/media/php.29fddca0.png",
+  "static/media/react.png": "static/media/react.8c0e654e.png",
   "static/media/split.png": "static/media/split.c54ff82f.png",
   "static/media/thejibeLogo.png": "static/media/thejibeLogo.2989bce5.png",
-  "static/media/vidcLogo.png": "static/media/vidcLogo.64115ab8.png"
+  "static/media/vidcLogo.png": "static/media/vidcLogo.64115ab8.png",
+  "static/media/wordpress.png": "static/media/wordpress.a0d10ce9.png"
 }

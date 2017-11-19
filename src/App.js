@@ -27,8 +27,6 @@ class App extends Component {
               <Info />
               <Portfolio />
               <MyExperience />
-              <CallAction />
-              <Contact />
               <Foot />
           </div>
 

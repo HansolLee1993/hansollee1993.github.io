@@ -42,9 +42,16 @@ class Portfolio extends Component {
                                                 Continuation of a task management tool, pulling employee data through the Teamwork API
                                                 Application uses a combo of Laravel for the back-end and React for the front-end.
 
-                                                <br></br> <br></br>Technologies used:
-                                                React, Teamwork Projects API, Laravel, PHP, jQuery, jQuery UI, Bootstrap, Git, Bitbucket</p>
-                                                <br></br><br></br><br></br><br></br><br></br>
+                                                <br></br> <br></br>Technologies used:<br></br>
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/react.png')} alt="react"></img>React</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/html.png')} alt="react"></img>  HTML5</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/css.png')} alt="react"></img>  CSS3</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/laravel.png')} alt="react"></img>  Laravel Framework</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/bootstrap.png')} alt="react"></img>  bootstrap</li>
+                                                <li><img className="react" style={{width: 40, height: 30}} src={require('./img/tech/git.png')} alt="react"></img>  Git</li>
+
+                                                <br></br><br></br>
+                                            </p>
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
@@ -65,9 +72,13 @@ class Portfolio extends Component {
                                                 <br></br>
                                                 - Designed and implemented the database structure along with full-stack responsibilities.
                                                 <br></br>  <br></br>
-                                                Technologies used:
-                                                Laravel, PHP, HTML5/CSS3, JavaScript, MySQL, jQuery, Bootstrap, Git, Asana, ZenHub
-                                                See project College Scheduling Application</p>
+                                                Technologies used: <br></br>
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/php.png')} alt="react"></img>PHP</li>
+                                                <li><img className="react" style={{width: 120, height: 40}} src={require('./img/tech/multi.png')} alt="react"></img></li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/laravel.png')} alt="react"></img>  Laravel Framework</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/bootstrap.png')} alt="react"></img>  bootstrap</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/git.png')} alt="react"></img>  Git</li>
+                                            </p>
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
@@ -84,12 +95,15 @@ class Portfolio extends Component {
                                             <h4>Redesign Website</h4>
                                             <h6 className="companyName">Vancouver Infectious Diseases Centre
                                                 <br></br>sep 2017 – Present</h6>
-                                            <p className="text-muted">Redegined the website for non profit-organization.
-                                                Website should be follow trandt website style and represent organzation.
+                                            <p className="text-muted">Redesigned the website for non profit-organization.
+                                                Website represents VIDC characteristics well.
                                                 <br></br><br></br><br></br>
-                                            Technologies used:
-                                                    PHP, Wordpress, HTML5, Bootstrap</p>
-                                            <br></br><br></br><br></br><br></br><br></br><br></br>
+                                                Technologies used:
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/php.png')} alt="react"></img>PHP</li>
+                                                <li><img className="react" style={{width: 50, height: 46}} src={require('./img/tech/wordpress.png')} alt="react"></img> WordPress</li>
+                                                <li><img className="react" style={{width: 120, height: 40}} src={require('./img/tech/multi.png')} alt="react"></img></li>
+                                            </p>
+                                            <br></br><br></br><br></br><br></br><br></br><br></br><br></br>
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
@@ -102,8 +116,18 @@ class Portfolio extends Component {
                                             <img className="img-fluid" src={require('./img/portfolio/split.png')}  alt=""></img>
                                         </a>
                                         <div className="portfolio-caption">
-                                            <h4>Website Design</h4>
-                                            <p className="text-muted">Website Design</p>
+                                            <h4>Expense Tracking</h4>
+                                            <p className="text-muted">Website Design<br></br>
+                                                Split is a web application where users can register and login to
+                                                track personal expenses individually or among friends. Project
+                                                consisted of 9 team members separated into front and back-end teams,
+                                                plus a middle-man to provide adequate code reviews and feedback. <br></br><br></br>
+                                                Technologies used:
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/php.png')} alt="react"></img>PHP</li>
+                                                <li><img className="react" style={{width: 120, height: 40}} src={require('./img/tech/multi.png')} alt="react"></img></li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/laravel.png')} alt="react"></img>  Laravel Framework</li>
+                                                <li><img className="react" style={{width: 40, height: 40}} src={require('./img/tech/git.png')} alt="react"></img>  Git</li>
+                                            </p>
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
@@ -117,7 +141,15 @@ class Portfolio extends Component {
                                         </a>
                                         <div className="portfolio-caption">
                                             <h4>JavaScript Game</h4>
-                                            <p className="text-muted">Brain Game</p>
+                                            <p className="text-muted">Brain Game<br></br>
+                                                NumberPOP is javaScript game.
+                                                <br></br><br></br><br></br>
+                                                Technologies used:
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/php.png')} alt="react"></img>PHP</li>
+                                                <li><img className="react" style={{width: 120, height: 40}} src={require('./img/tech/multi.png')} alt="react"></img></li>
+                                                <li><img className="react" style={{width: 50, height: 55}} src={require('./img/tech/git.png')} alt="react"></img>  Git</li>
+                                            </p>
+                                            <br></br><br></br><br></br> <br></br><br></br><br></br>
                                         </div>
                                     </div>
                                     <div className="col-md-4 col-sm-6 portfolio-item">
@@ -131,7 +163,17 @@ class Portfolio extends Component {
                                         </a>
                                         <div className="portfolio-caption">
                                             <h4>Website Degin </h4>
-                                            <p className="text-muted">Website Design</p>
+
+                                            <p className="text-muted">Website Design
+                                                Creating website for strata owners seeking guidance and information that may help them resolve current/future issues.
+                                                Focused on responsive design and clean, modern, content-first interface.
+                                                <br></br><br></br><br></br>
+                                                Technologies used:
+                                                <li><img className="react" style={{width: 70, height: 50}} src={require('./img/tech/php.png')} alt="react"></img>PHP</li>
+                                                <li><img className="react" style={{width: 120, height: 40}} src={require('./img/tech/multi.png')} alt="react"></img></li>
+                                                <li><img className="react" style={{width: 50, height: 55}} src={require('./img/tech/git.png')} alt="react"></img>  Git</li>
+                                            </p>
+                                            <br></br><br></br>
                                         </div>
                                     </div>
 

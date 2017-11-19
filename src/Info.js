@@ -71,35 +71,35 @@ class Info extends Component {
                                             <div className="progress skill-bar ">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-success" role="progressbar"
                                                      aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{"width":"90%"}}>
-                                                    <span className="skill"><i class="val"> 90%</i></span>
+                                                    <span className="skill"><i className="val"> 90%</i></span>
                                                 </div>
                                             </div>
 
                                             <h5 className="skills"> CSS </h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-info" role="progressbar" aria-valuenow="90"  aria-valuemax="100" style={{"width":"90%"}}>
-                                                    <span className="skill"><i class="val"> 90%</i></span>
+                                                    <span className="skill"><i className="val"> 90%</i></span>
                                                 </div>
                                             </div>
 
                                             <h5 className="skills"> React</h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}} >
-                                                    <span className="skill"><i class="val"> 80%</i></span>
+                                                    <span className="skill"><i className="val"> 80%</i></span>
                                                 </div>
                                             </div>
 
                                             <h5 className="skills">JavaScript</h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style={{"width":"75%"}}>
-                                                    <span className="skill"><i class="val"> 75%</i></span>
+                                                    <span className="skill"><i className="val"> 75%</i></span>
                                                 </div>
                                             </div>
 
                                             <h5 className="skills"> Angular2</h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar  progress-bar-striped active progress-bar-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style={{"width":"55%"}}>
-                                                    <span className="skill"><i class="val"> 55%</i></span>
+                                                    <span className="skill"><i className="val"> 55%</i></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -113,14 +113,14 @@ class Info extends Component {
                                             <h5 className="skills"> Laravel PHP  </h5>
                                             <div className="progress skill-bar ">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{"width":"70%"}}>
-                                                    <span className="skill"> <i class="val">70%</i></span>
+                                                    <span className="skill"> <i className="val">70%</i></span>
                                                 </div>
                                             </div>
 
                                             <h5 className="skills"> ASP.Net C#</h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-primary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{"width":"60%"}}>
-                                                    <span className="skill"><i class="val">60%</i></span>
+                                                    <span className="skill"><i className="val">60%</i></span>
                                                 </div>
                                             </div>
 
@@ -136,13 +136,13 @@ class Info extends Component {
                                             <h5 className="skills">Swift3 </h5>
                                             <div className="progress skill-bar ">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}}>
-                                                    <span className="skill"><i class="val">80%</i></span>
+                                                    <span className="skill"><i className="val">80%</i></span>
                                                 </div>
                                             </div>
                                             <h5 className="skills">Java for Android</h5>
                                             <div className="progress skill-bar">
                                                 <div className="progress-bar progress-bar-striped active progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{"width":"70%"}}>
-                                                    <span className="skill"><i class="val">70%</i></span>
+                                                    <span className="skill"><i className="val">70%</i></span>
                                                 </div>
                                             </div>
 

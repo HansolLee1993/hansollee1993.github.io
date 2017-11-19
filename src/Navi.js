@@ -28,14 +28,19 @@ class Navi extends Component {
                     <div className="container">
                         {/* Brand and toggle get grouped for better mobile display */}
                         <div className="navbar-header page-scroll">
-                            <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
+                            <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigationbar" aria-expanded="false" aria-controls="navbar">
                                 <span className="sr-only">Toggle navigation</span> Menu <i className="fa fa-bars"></i>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
                             </button>
                             <a className="navbar-brand" href="#page-top">Hansol</a>
                         </div>
 
                         {/* Collect the nav links, forms, and other content for toggling */}
-                        <div className="navbar-collapse collapse" id="navbar-collapse-1">
+                        <div className="navbar-collapse collapse" id="navigationbar">
                             <ul className="nav navbar-nav navbar-right">
                                 <li className="hidden">
                                     <a href="#page-top"></a>
@@ -52,9 +57,9 @@ class Navi extends Component {
                                 <li className="page-scroll">
                                     <a href="#myExperience">Experiences</a>
                                 </li>
-                                <li className="page-scroll">
-                                    <a href="#contact">Contact</a>
-                                </li>
+                                {/*<li className="page-scroll">*/}
+                                    {/*<a href="#contact">Contact</a>*/}
+                                {/*</li>*/}
                                 <li className="page-scroll">
                                     <a href="resume.html">Resume</a>
                                 </li>
