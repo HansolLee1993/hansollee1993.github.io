@@ -14,12 +14,10 @@ class Banner extends Component {
             <div className="Banner">
                 <div className="bannerContainer centered">
                     <div className="row">
-                        <div className="col-md-8 col-md-offset-2 container-banner" >
-
-                                <a href="" className="typewrite" data-period="2000" data-type='[ "Hi, I Am Hansol Lee.", "I am Front-end Unicorn", "I Love to Develop.", "I Am Creative.", "I Am Passionate."]'>
+                        <div className="col-md-offset-3 col-md-6 col-md-offset-3 container-banner text-center"  >
+                            <a href="" className="typewrite" data-period="2000" data-type='[ "Hi, I Am Hansol Lee.", "I am Front-end Unicorn", "I Love to Develop.", "I Am Creative.", "I Am Passionate."]'>
                                 <span className="wrap"></span>
-                                </a>
-
+                            </a>
                         </div>
                     </div>
 
